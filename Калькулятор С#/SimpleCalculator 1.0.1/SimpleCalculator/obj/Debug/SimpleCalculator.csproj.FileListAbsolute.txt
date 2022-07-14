@@ -1,0 +1,20 @@
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Денис\3 курс\6 семестр\ОС\Курсовая работа\SimpleCalculator 1.0.1\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

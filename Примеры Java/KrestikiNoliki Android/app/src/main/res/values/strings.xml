@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Крестики нолики</string>
+    <string name="krestiki">Сейчас ходят крестики</string>
+    <string name="noliki">Сейчас ходят нолики</string>
+    <string name="winKrestiki">Крестики выиграли!</string>
+    <string name="winNoliki">Нолики выиграли!</string>
+    <string name="nichya">Ничья</string>
+    <string name="newGame">Новая игра</string>
+</resources>

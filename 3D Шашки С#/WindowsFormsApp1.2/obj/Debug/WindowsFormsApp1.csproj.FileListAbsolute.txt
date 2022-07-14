@@ -1,0 +1,56 @@
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.dll
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.dll
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.pdb
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.xml
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.dll.config
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\OpenTK.GLControl.xml
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lenovo\Desktop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\Tao.OpenGl.dll
+C:\Users\lenovo\Desktop\WindowsFormsApp1\bin\Debug\Tao.OpenGl.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.exe
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.pdb
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.GLControl.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\Tao.OpenGl.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.pdb
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.dll.config
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\OpenTK.GLControl.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\bin\Debug\Tao.OpenGl.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.exe
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.pdb
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\WindowsFormsApp1.exe
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\WindowsFormsApp1.pdb
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.GLControl.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\Tao.OpenGl.dll
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.pdb
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.dll.config
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\OpenTK.GLControl.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\bin\Debug\Tao.OpenGl.xml
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.exe
+D:\Денис\4 курс\Графика\Курсовой проект\WindowsFormsApp1.2\obj\Debug\WindowsFormsApp1.pdb
